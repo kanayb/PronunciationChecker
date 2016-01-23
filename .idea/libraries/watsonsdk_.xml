@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="watsonsdk-">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/watsonsdk/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/watsonsdk/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/watsonsdk/jars/libs/java_websocket.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/watsonsdk/jars/libs/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/watsonsdk/jars/libs/jna.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
